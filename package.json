@@ -1,0 +1,16 @@
+{
+  "name": "condactformwithnodemailer",
+  "version": "1.0.0",
+  "description": "condact form with node.js and used google gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.3"
+  }
+}
